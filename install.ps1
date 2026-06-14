@@ -5,7 +5,7 @@ $ErrorActionPreference = "Stop"
 #   PDF OCR Tool - Windows Installer (winget-based)
 # ============================================================
 # Edit this single line with your GitHub repo URL after pushing:
-$GitHubZipUrl = "https://github.com/YOUR_USERNAME/YOUR_REPO/archive/refs/heads/main.zip"
+$GitHubZipUrl = "https://github.com/ys-laube/pdf-ocr-split-tool/archive/refs/heads/main.zip"
 
 $InstallDir = Join-Path $env:USERPROFILE "PDF-OCR-Tool"
 $TessdataKorUrl = "https://github.com/tesseract-ocr/tessdata_best/raw/main/kor.traineddata"
