@@ -1,0 +1,3 @@
+ocrmypdf>=17.0
+PyMuPDF>=1.25
+tkinterdnd2>=0.4
