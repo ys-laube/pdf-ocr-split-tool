@@ -9,10 +9,10 @@
 PowerShell을 **관리자 권한 필요 없이** 열고 한 줄만 실행하세요:
 
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/ys-laube/pdf-ocr-split-tool/main/install.ps1 | iex
 ```
 
-(`YOUR_USERNAME/YOUR_REPO`는 GitHub 레포 주소로 교체)
+(`ys-laube/pdf-ocr-split-tool`는 GitHub 레포 주소로 교체)
 
 이 명령이 자동으로 처리하는 것:
 
